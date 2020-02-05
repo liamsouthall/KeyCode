@@ -1,0 +1,30 @@
+#explain {
+  display: flex;
+  justify-content: center;
+}
+
+#bigNumber {
+  font-size: 200px;
+  display: flex;
+  justify-content: center;
+}
+
+.boxes {
+  display: flex;
+  justify-content: space-around;
+}
+
+#eventKey {
+  display: flex;
+  justify-content: center;
+}
+
+#eventWhich {
+  display: flex;
+  justify-content: center;
+}
+
+#eventCode {
+  display: flex;
+  justify-content: center;
+}
